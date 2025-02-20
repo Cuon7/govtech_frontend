@@ -33,7 +33,7 @@ To install and run this project on your local machine, follow these steps:
    cd govtech_frontend
    ```
 
-2. Install dependencies
+2. Install dependencies (Delete yarn.lock if error occurs)
 
    ```bash
     yarn install
